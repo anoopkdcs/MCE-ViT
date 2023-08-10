@@ -9,29 +9,19 @@ Department of Computer Science, University of Calicut, India </br>
 
 
 :memo: Paper : https://www.sciencedirect.com/science/article/abs/pii/S2214212622001247 </br>
-:earth_asia: Link: [https://dcs.uoc.ac.in/cida/projects/dif/mceffnet.html](https://dcs.uoc.ac.in/cida/projects/dif/mcevit.html)
+:earth_asia: Link: [https://dcs.uoc.ac.in/cida/projects/dif/mcevit.html](https://dcs.uoc.ac.in/cida/projects/dif/mcevit.html)
+
 
 **Abstract**: The works in literature classifying natural and computer generated images are mostly designed as binary tasks either considering <i>natural images versus computer graphics images</i> only or <i>natural images versus GAN generated images</i> only, but not natural images versus both classes of the generated images. Also, even though this forensic classification task of distinguishing natural and computer generated images gets the support of the new convolutional neural networks and transformer based architectures that can give remarkable classification accuracies, they are seen to fail over the images that have undergone some post-processing operations usually performed to deceive the forensic algorithms, such as JPEG compression, gaussian noise, etc. This work proposes a robust approach towards distinguishing natural and computer generated images including both, computer graphics and GAN generated images using a fusion of two vision transformers where each of the transformer networks operates in different color spaces, one in RGB and the other in YCbCr color space. The proposed approach achieves high performance gain when compared to a set of baselines, and also achieves higher robustness and generalizability than the baselines. The features of the proposed model when visualized are seen to obtain higher separability for the classes than the input image features and the baseline features. This work also studies the attention map visualizations of the networks of the fused model and observes that the proposed methodology can capture more image information relevant to the forensic task of classifying natural and generated images. 
 
 For other inquiries, please contact: </br>
 Manjary P Gangan :email: manjaryp_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~manjary/) </br>
-Anoop K :email: anoopk_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
+Anoop K :email: a.kadan@qub.ac.uk :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
 Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
 
 ## Citation
 ```
-@article{gangan2022distinguishing,
-  title={Distinguishing natural and computer generated images using Multi-Colorspace fused EfficientNet},
-  author={Manjary {P. Gangan} and Anoop K. and Lajish {V. L.}},
-  journal={Journal of Information Security and Applications},
-  volume={68},
-  pages={103261},
-  year={2022},
-  publisher={Elsevier},
-  issn = {2214-2126},
-  doi = {https://doi.org/10.1016/j.jisa.2022.103261},
-  url = {https://www.sciencedirect.com/science/article/pii/S2214212622001247}
-}
+
 
 ```
 
