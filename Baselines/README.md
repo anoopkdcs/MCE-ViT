@@ -1,5 +1,5 @@
 # Baselines for comparison
-The details of three-class implementation of the baselines can be found in `Section IV.B` of the paper </br>
+The details of three-class implementation of the baselines can be found in `Section V.A` of the paper </br>
 
 1. MC-EffNet [1] : :balance_scale: https://github.com/manjaryp/GANvsGraphicsvsReal </br>
 2. InceptionResNet [2] : :balance_scale: [inceptionresnet.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/inceptionresnet.py) </br>
