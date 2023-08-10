@@ -3,7 +3,7 @@ The details of three-class implementation of the baselines can be found in `Sect
 
 1. MC-EffNet [1] : :balance_scale: https://github.com/manjaryp/GANvsGraphicsvsReal </br>
 2. InceptionResNet [2] : :balance_scale: [inceptionresnet.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/inceptionresnet.py) </br>
-3. Quan et al. [3] : :balance_scale: https://github.com/weizequan/NIvsCG or https://github.com/Nx2018/Computer-Generated-image-detection/tree/master/tifs </br>
+3. Quan et al. [3] : :balance_scale: https://github.com/weizequan/NIvsCG </br>
 4. Nataraj et al. [4] : :balance_scale: [natraj_gan_baseline.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/natraj_gan_baseline.py)
 5. Rezende et al. [5] : :balance_scale: https://github.com/bazinho/CG </br>
 
