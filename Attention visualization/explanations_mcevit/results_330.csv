@@ -1,0 +1,331 @@
+ground_truth,predictions,file_name
+0.0,0,pggan_airplane (72).png
+0.0,0,pggan_bedroom (61).png
+0.0,0,pggan_bedroom (62).png
+0.0,0,pggan_bedroom (65).png
+0.0,0,pggan_bedroom (68).png
+0.0,0,pggan_bedroom (72).png
+0.0,0,pggan_bedroom (74).png
+0.0,0,pggan_bicycle (61).png
+0.0,0,pggan_bicycle (64).png
+0.0,0,pggan_bicycle (67).png
+0.0,0,pggan_bicycle (70).png
+0.0,0,pggan_bicycle (72).png
+0.0,0,pggan_bird (61).png
+0.0,0,pggan_bird (70).png
+0.0,0,pggan_boat (63).png
+0.0,0,pggan_boat (72).png
+0.0,0,pggan_boat (74).png
+0.0,0,pggan_bottle (62).png
+0.0,0,pggan_bottle (68).png
+0.0,0,pggan_bottle (69).png
+0.0,0,pggan_bottle (72).png
+0.0,2,pggan_bridge (63).png
+0.0,0,pggan_bridge (65).png
+0.0,0,pggan_bridge (68).png
+0.0,0,pggan_bridge (74).png
+0.0,0,pggan_bus (63).png
+0.0,0,pggan_bus (71).png
+0.0,0,pggan_bus (74).png
+0.0,0,pggan_car (65).png
+0.0,0,pggan_car (67).png
+0.0,0,pggan_car (71).png
+0.0,0,pggan_cat (64).png
+0.0,0,pggan_cat (69).png
+0.0,0,pggan_celebahq (67).png
+0.0,0,pggan_celebahq (68).png
+0.0,0,pggan_celebahq (69).png
+0.0,0,pggan_celebahq (70).png
+0.0,0,pggan_celebahq (72).png
+0.0,0,pggan_celebahq (75).png
+0.0,0,pggan_celebahq (78).png
+0.0,0,pggan_celebahq (80).png
+0.0,0,pggan_celebahq (83).png
+0.0,0,pggan_celebahq (84).png
+0.0,0,pggan_chair (69).png
+0.0,0,pggan_chair (70).png
+0.0,0,pggan_chair (72).png
+0.0,0,pggan_churchoutdoor (63).png
+0.0,0,pggan_churchoutdoor (64).png
+0.0,0,pggan_churchoutdoor (65).png
+0.0,0,pggan_churchoutdoor (69).png
+0.0,0,pggan_churchoutdoor (71).png
+0.0,0,pggan_churchoutdoor (72).png
+0.0,0,pggan_churchoutdoor (73).png
+0.0,0,pggan_conferenceroom (61).png
+0.0,0,pggan_conferenceroom (62).png
+0.0,0,pggan_conferenceroom (67).png
+0.0,0,pggan_conferenceroom (70).png
+0.0,0,pggan_cow (67).png
+0.0,0,pggan_dog (66).png
+0.0,0,pggan_horse (72).png
+0.0,0,pggan_kitchen (62).png
+0.0,0,pggan_livingroom (63).png
+0.0,0,pggan_livingroom (65).png
+0.0,0,pggan_motorbike (63).png
+0.0,0,pggan_pottedplant (68).png
+0.0,0,pggan_sheep (67).png
+0.0,0,pggan_sofa (63).png
+0.0,0,pggan_tower (62).png
+0.0,0,pggan_tower (64).png
+0.0,0,pggan_tower (68).png
+0.0,0,pggan_tower (72).png
+0.0,0,pggan_train (74).png
+0.0,0,pggan_tvmonitor (71).png
+0.0,0,stylegan2-ada_cat (106).png
+0.0,0,stylegan2-ada_dog (79).png
+0.0,0,stylegan2-ada_dog (89).png
+0.0,0,stylegan2-ada_ffhq (236).png
+0.0,0,stylegan2-ada_metfaces (125).png
+0.0,0,stylegan2-ada_wild (81).png
+0.0,0,stylegan2-ada_wild (86).png
+0.0,0,stylegan2-ada_wild (89).png
+0.0,0,stylegan2-ada_wild (92).png
+0.0,0,stylegan2_car (87).png
+0.0,0,stylegan2_car (90).png
+0.0,0,stylegan2_car (98).png
+0.0,0,stylegan2_cat (86).png
+0.0,0,stylegan2_cat (97).png
+0.0,0,stylegan2_church (84).png
+0.0,0,stylegan2_church (86).png
+0.0,0,stylegan2_face (81).png
+0.0,0,stylegan2_face (86).png
+0.0,0,stylegan2_face (89).png
+0.0,0,stylegan2_face (96).png
+0.0,0,stylegan2_horse (91).png
+0.0,0,stylegan2_horse (95).png
+0.0,0,stylegan2_horse (99).png
+0.0,0,stylegan_bed (100).png
+0.0,0,stylegan_bed (91).png
+0.0,0,stylegan_bed (97).png
+0.0,0,stylegan_car (94).png
+0.0,0,stylegan_car (96).png
+0.0,1,stylegan_car (97).png
+0.0,0,stylegan_cat (83).png
+0.0,0,stylegan_cat (84).png
+0.0,0,stylegan_cat (91).png
+0.0,0,stylegan_cat (96).png
+0.0,0,stylegan_face (81).png
+0.0,0,stylegan_face (86).png
+0.0,0,stylegan_face (92).png
+0.0,0,stylegan_face (93).png
+0.0,0,stylegan_face (94).png
+0.0,0,stylegan_face (99).png
+1.0,1,3dcommunity_01.jpg
+1.0,1,3dcommunity_016_1024.jpg
+1.0,1,3dcommunity_07web.jpg
+1.0,1,3dcommunity_1_5204.jpg
+1.0,1,3dcommunity_1_7334.jpg
+1.0,1,3dcommunity_2_3831.jpg
+1.0,2,3dcommunity_517.ACcamera_33.jpg
+1.0,1,3dcommunity_55.jpg
+1.0,1,3dcommunity_614.Fotomerge 01.jpg
+1.0,1,3dcommunity_960627-day-ps-900.jpg
+1.0,1,3dcommunity_Bed Room_4214.jpg
+1.0,1,3dcommunity_ConferenceRoom2.jpg
+1.0,1,3dcommunity_Day-950917-PS-1000-1.jpg
+1.0,1,3dcommunity_Dinning Corner.jpg
+1.0,1,3dcommunity_Family Room_8117.jpg
+1.0,1,3dcommunity_FerrariF12004-01.jpg
+1.0,1,3dcommunity_Fire-of-Brazil11.jpg
+1.0,2,3dcommunity_FruitPlate.jpg
+1.0,1,3dcommunity_LISTA2 [800x600].jpg
+1.0,1,3dcommunity_Living Corner.jpg
+1.0,1,3dcommunity_Living Room_6960.jpg
+1.0,1,3dcommunity_Lobby_4494.jpg
+1.0,1,3dcommunity_M-P-Residential-1.jpg
+1.0,1,3dcommunity_MGK1W.jpg
+1.0,1,3dcommunity_MITSUBISHI.jpg
+1.0,1,3dcommunity_Magic-cube.jpg
+1.0,1,3dcommunity_Mers M NET.jpg
+1.0,1,3dcommunity_Mini House One.jpg
+1.0,1,3dcommunity_Museum.jpg
+1.0,1,3dcommunity_My Villa_1423.jpg
+1.0,1,3dcommunity_Nexus.jpg
+1.0,1,3dcommunity_O [1024x768].jpg
+1.0,1,3dcommunity_Parthenonlow.jpg
+1.0,2,3dcommunity_Pharaohs Tunnel.jpg
+1.0,1,3dcommunity_PrivateOffice.jpg
+1.0,1,3dcommunity_SleepyHollow800.jpg
+1.0,1,3dcommunity_a51.jpg
+1.0,1,3dcommunity_ab_1.jpg
+1.0,1,3dcommunity_abrams wip3.jpg
+1.0,1,3dcommunity_dbt_cafe_800.jpg
+1.0,2,3dcommunity_dusk.jpg
+1.0,1,3dcommunity_eldhus.jpg
+1.0,1,3dcommunity_ext_11.jpg
+1.0,1,3dcommunity_f15c.jpg
+1.0,2,3dcommunity_galaxy.jpg
+1.0,1,3dcommunity_glasses_3.jpg
+1.0,2,3dcommunity_icecold.jpg
+1.0,1,3dcommunity_kkkkk.jpg
+1.0,1,3dcommunity_lounge.jpg
+1.0,1,3dcommunity_luxary.jpg
+1.0,1,3dcommunity_magnumupload.jpg
+1.0,1,3dcommunity_makam komple.jpg
+1.0,1,3dcommunity_mangustadouble.jpg
+1.0,1,3dcommunity_marlborofinal.jpg
+1.0,1,3dcommunity_mil.jpg
+1.0,1,3dcommunity_minicooperdouble.jpg
+1.0,1,3dcommunity_mp3 render aqua.jpg
+1.0,2,3dcommunity_mp3 usbb.jpg
+1.0,1,3dcommunity_mp3_final.jpg
+1.0,1,3dcommunity_night shot restaurant.jpg
+1.0,1,3dcommunity_out3.jpg
+1.0,0,3dcommunity_pot2.jpg
+1.0,1,3dcommunity_render55.jpg
+1.0,2,3dcommunity_rock.jpg
+1.0,2,3dcommunity_snow scene 2.jpg
+1.0,1,3dcommunity_tanky.jpg
+1.0,1,3dcommunity_williams2004-01.jpg
+1.0,1,3dcommunity_york room_0598.jpg
+1.0,1,3dshop_L103238.jpg
+1.0,1,3dshop_L103239.jpg
+1.0,1,3dshop_L103252.jpg
+1.0,1,3dshop_L103253.jpg
+1.0,1,3dshop_L103272.jpg
+1.0,1,3dshop_L103283.jpg
+1.0,1,3dshop_L103325.jpg
+1.0,1,3dshop_L103350.jpg
+1.0,0,3dshop_L103367.jpg
+1.0,1,3dshop_L103376.jpg
+1.0,0,3dshop_L103392.jpg
+1.0,1,3dshop_L103400.jpg
+1.0,1,3dshop_L103429.jpg
+1.0,1,3dshop_L103442.jpg
+1.0,1,3dshop_L103450.jpg
+1.0,1,3dshop_L103947.jpg
+1.0,1,3dshop_L103978.jpg
+1.0,1,3dshop_L103984.jpg
+1.0,1,3dshop_L103985.jpg
+1.0,1,3dshop_L103993.jpg
+1.0,1,3dshop_L103998.jpg
+1.0,1,3dshop_L104066.jpg
+1.0,2,3dshop_L104130.jpg
+1.0,1,3dshop_L104131.jpg
+1.0,1,3dshop_L104133.jpg
+1.0,1,3dshop_L104135.jpg
+1.0,1,3dshop_L104160.jpg
+1.0,1,3dshop_L104176.jpg
+1.0,1,3dshop_L104190.jpg
+1.0,1,3dshop_L104194.jpg
+1.0,1,3dshop_L104198.jpg
+1.0,1,3dshop_L104200.jpg
+1.0,1,3dshop_L104206.jpg
+1.0,1,3dshop_L104212.jpg
+1.0,2,3dshop_L104234.jpg
+1.0,0,3dshop_L104244.jpg
+1.0,2,3dshop_L104284.jpg
+1.0,1,3dshop_L104287.jpg
+1.0,1,3dshop_L104289.jpg
+1.0,1,3dshop_L104290.jpg
+2.0,2,freeFoto_01_02_28_prev.jpg
+2.0,2,freeFoto_01_03_10_prev.jpg
+2.0,2,freeFoto_01_03_54_prev.jpg
+2.0,2,freeFoto_01_05_4_prev.jpg
+2.0,0,freeFoto_01_05_52_prev.jpg
+2.0,0,freeFoto_01_07_61_prev.jpg
+2.0,2,freeFoto_01_07_73_prev.jpg
+2.0,0,freeFoto_01_07_7_prev.jpg
+2.0,2,freeFoto_01_09_13_prev.jpg
+2.0,2,freeFoto_01_10_62_prev.jpg
+2.0,2,freeFoto_01_10_8_prev.jpg
+2.0,0,freeFoto_01_13_53_prev.jpg
+2.0,2,freeFoto_01_14_2_prev.jpg
+2.0,2,freeFoto_01_16_40_prev.jpg
+2.0,2,freeFoto_01_19_30_prev.jpg
+2.0,2,freeFoto_01_21_19_prev.jpg
+2.0,2,freeFoto_01_21_55_prev.jpg
+2.0,2,freeFoto_01_25_3_prev.jpg
+2.0,2,freeFoto_01_25_5_prev.jpg
+2.0,2,freeFoto_01_37_6_prev.jpg
+2.0,2,freeFoto_01_39_17_prev.jpg
+2.0,2,freeFoto_01_39_69_prev.jpg
+2.0,2,freeFoto_01_41_59_prev.jpg
+2.0,2,freeFoto_01_42_32_prev.jpg
+2.0,0,freeFoto_01_42_8_prev.jpg
+2.0,0,freeFoto_01_43_14_prev.jpg
+2.0,2,freeFoto_01_43_21_prev.jpg
+2.0,2,freeFoto_01_45_70_prev.jpg
+2.0,0,freeFoto_01_45_74_prev.jpg
+2.0,2,freeFoto_01_47_41_prev.jpg
+2.0,2,freeFoto_01_48_31_prev.jpg
+2.0,2,freeFoto_01_48_49_prev.jpg
+2.0,0,freeFoto_01_49_55_prev.jpg
+2.0,2,freeFoto_01_49_71_prev.jpg
+2.0,2,freeFoto_01_49_73_prev.jpg
+2.0,2,freeFoto_01_51_26_prev.jpg
+2.0,2,freeFoto_01_51_9_prev.jpg
+2.0,2,freeFoto_01_52_2_prev.jpg
+2.0,2,freeFoto_01_53_23_prev.jpg
+2.0,2,freeFoto_01_54_13_prev.jpg
+2.0,2,freeFoto_01_54_15_prev.jpg
+2.0,2,freeFoto_01_56_16_prev.jpg
+2.0,2,freeFoto_01_56_33_prev.jpg
+2.0,2,freeFoto_01_58_7_prev.jpg
+2.0,2,freeFoto_01_61_17_prev.jpg
+2.0,2,freeFoto_01_62_4_prev.jpg
+2.0,0,freeFoto_01_62_52_prev.jpg
+2.0,2,freeFoto_02_09_51_prev.jpg
+2.0,2,freeFoto_02_10_11_prev.jpg
+2.0,2,freeFoto_02_11_11_prev.jpg
+2.0,2,freeFoto_02_11_60_prev.jpg
+2.0,2,freeFoto_04_02_79_prev.jpg
+2.0,2,freeFoto_04_04_14_prev.jpg
+2.0,1,freeFoto_04_06_53_prev.jpg
+2.0,2,freeFoto_04_07_52_prev.jpg
+2.0,2,freeFoto_04_10_51_prev.jpg
+2.0,1,freeFoto_04_11_13_prev.jpg
+2.0,1,freeFoto_04_12_2_prev.jpg
+2.0,2,freeFoto_04_16_24_prev.jpg
+2.0,2,freeFoto_04_18_3_prev.jpg
+2.0,2,freeFoto_04_19_62_prev.jpg
+2.0,2,freeFoto_04_23_75_prev.jpg
+2.0,2,freeFoto_04_23_7_prev.jpg
+2.0,2,freeFoto_04_25_60_prev.jpg
+2.0,2,freeFoto_04_25_8_prev.jpg
+2.0,2,freeFoto_04_31_25_prev.jpg
+2.0,2,freeFoto_05_34_94_prev.jpg
+2.0,2,freeFoto_05_38_3_prev.jpg
+2.0,1,freeFoto_05_39_2_prev.jpg
+2.0,2,freeFoto_05_52_1_prev.jpg
+2.0,2,freeFoto_05_53_32_prev.jpg
+2.0,2,freeFoto_07_01_15_prev.jpg
+2.0,2,freeFoto_07_05_19_prev.jpg
+2.0,2,freeFoto_07_38_18_prev.jpg
+2.0,2,freeFoto_07_56_24_prev.jpg
+2.0,2,freeFoto_09_01_37_prev.jpg
+2.0,2,freeFoto_09_08_60_prev.jpg
+2.0,2,freeFoto_09_15_62_prev.jpg
+2.0,2,freeFoto_09_23_33_prev.jpg
+2.0,2,freeFoto_09_36_1_prev.jpg
+2.0,2,freeFoto_10_53_52_prev.jpg
+2.0,2,freeFoto_11_04_6_prev.jpg
+2.0,1,freeFoto_11_11_10_prev.jpg
+2.0,2,freeFoto_11_13_41_prev.jpg
+2.0,2,freeFoto_11_17_76_prev.jpg
+2.0,2,freeFoto_11_26_51_prev.jpg
+2.0,2,freeFoto_12_11_70_prev.jpg
+2.0,2,freeFoto_12_81_2_prev.jpg
+2.0,2,freeFoto_13_04_23_prev.jpg
+2.0,2,freeFoto_13_12_67_prev.jpg
+2.0,2,freeFoto_13_21_9_prev.jpg
+2.0,2,freeFoto_13_24_51_prev.jpg
+2.0,1,freeFoto_13_50_1_prev.jpg
+2.0,2,freeFoto_13_54_69_prev.jpg
+2.0,2,freeFoto_13_66_56_prev.jpg
+2.0,2,freeFoto_13_72_61_prev.jpg
+2.0,2,freeFoto_14_14_14_prev.jpg
+2.0,2,freeFoto_14_19_1_prev.jpg
+2.0,2,freeFoto_15_01_69_prev.jpg
+2.0,2,freeFoto_15_83_61_prev.jpg
+2.0,1,freeFoto_16_06_10_prev.jpg
+2.0,2,freeFoto_16_07_5_prev.jpg
+2.0,2,freeFoto_19_04_58_prev.jpg
+2.0,2,freeFoto_19_37_27_prev.jpg
+2.0,2,freeFoto_20_04_54_prev.jpg
+2.0,2,freeFoto_21_51_45_prev.jpg
+2.0,2,freeFoto_21_94_51_prev.jpg
+2.0,2,freeFoto_22_06_2_prev.jpg
+2.0,1,freeFoto_23_26_4_prev.jpg
+2.0,2,freeFoto_23_34_56_prev.jpg
