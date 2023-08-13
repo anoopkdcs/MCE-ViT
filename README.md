@@ -1,5 +1,5 @@
 # Distinguishing Natural and Computer Generated Images
-<img src= 'https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/images/index_pic.png' style="max-width: 100%;"> <sup>[image source](#myfootnote1)</sup>
+
 
 **A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer** </br>
 Manjary P Gangan<sup>a</sup>, Anoop K<sup>b</sup>, and Lajish V L<sup>a</sup> </br>
