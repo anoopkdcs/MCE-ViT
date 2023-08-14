@@ -3,8 +3,7 @@
 # A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer
 
 Manjary P Gangan<sup>a</sup>, Anoop K<sup>b</sup>, and Lajish V L<sup>a</sup> </br>
-<sup>a</sup>Computational Intelligence and Data Analytics (CIDA Lab) </br>
-Department of Computer Science, University of Calicut, India </br>
+<sup>a</sup> Department of Computer Science, University of Calicut, India </br>
 <sup>b</sup> School of Psychology, Queen's University Belfast, UK
 
 
