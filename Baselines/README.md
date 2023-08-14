@@ -1,7 +1,7 @@
 # Baselines for comparison
 The details of three-class implementation of the baselines can be found in `Section V.A` of the paper </br>
 
-:balance_scale: [MC-EffNet](https://github.com/manjaryp/GANvsGraphicsvsReal): Manjary P. Gangan, Anoop K., Lajish V. L., "Distinguishing natural and computer generated images using Multi-Colorspace fused EfficientNet", Journal of Information Security and Applications, Elsevier, Volume 68, 2022, 103261, ISSN 2214-2126, https://doi.org/10.1016/j.jisa.2022.103261. </br>
+:balance_scale: [MC-EffNet]([https://github.com/manjaryp/GANvsGraphicsvsReal](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/MC-EffNet/mceffnet.py)): Manjary P. Gangan, Anoop K., Lajish V. L., "Distinguishing natural and computer generated images using Multi-Colorspace fused EfficientNet", Journal of Information Security and Applications, Elsevier, Volume 68, 2022, 103261, ISSN 2214-2126, https://doi.org/10.1016/j.jisa.2022.103261. </br>
 </br>
 :balance_scale: [InceptionResNet](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/inceptionresnet.py): Szegedy, Christian, Sergey Ioffe, Vincent Vanhoucke, and Alexander A. Alemi. "Inception-v4, inception-resnet and the impact of residual connections on learning." In Thirty-first AAAI conference on artificial intelligence. 2017. https://dl.acm.org/doi/10.5555/3298023.3298188 </br>
 </br>
