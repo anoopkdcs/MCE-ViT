@@ -7,7 +7,7 @@ Manjary P Gangan<sup>a</sup>, Anoop K<sup>b</sup>, and Lajish V L<sup>a</sup> </
 <sup>b</sup> School of Psychology, Queen's University Belfast, UK
 
 
-:memo: Paper : [https://arxiv.org/abs/2110.09428](https://arxiv.org/abs/2110.09428)</br>
+:memo: Paper : [https://arxiv.org/abs/2308.07279](https://arxiv.org/abs/2308.07279)</br>
 :earth_asia: Link: [https://dcs.uoc.ac.in/cida/projects/dif/mcevit.html](https://dcs.uoc.ac.in/cida/projects/dif/mcevit.html) (will be available along with the publication)
 
 
