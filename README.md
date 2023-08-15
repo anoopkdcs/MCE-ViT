@@ -26,6 +26,7 @@ Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in
       year={2023},
       eprint={2308.07279},
       archivePrefix={arXiv},
+      doi={https://doi.org/10.48550/arXiv.2308.07279}
 }
 ```
 
