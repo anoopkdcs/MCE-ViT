@@ -20,7 +20,13 @@ Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in
 
 ## Citation
 ```
-
+@article{gangan2023robust,
+      title={A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer}, 
+      author={Manjary P Gangan and Anoop Kadan and Lajish V L},
+      year={2023},
+      eprint={2308.07279},
+      archivePrefix={arXiv},
+}
 
 ```
 
