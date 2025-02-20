@@ -1,6 +1,6 @@
 
 
-# A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer
+# Leveraging Vulnerabilities Towards Image Compression for Robust Classification of Natural and Generated Images
 
 Manjary P Gangan<sup>a</sup>, Anoop K<sup>b</sup>, and Lajish V L<sup>a</sup> </br>
 <sup>a</sup> Department of Computer Science, University of Calicut, India </br>
@@ -21,7 +21,7 @@ Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in
 ## Citation
 ```
 @article{gangan2023robust,
-      title={A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer}, 
+      title={Leveraging Vulnerabilities Towards Image Compression for Robust Classification of Natural and Generated Images}, 
       author={{Manjary P. Gangan} and {Anoop Kadan} and {Lajish V L}},
       year={2023},
       eprint={2308.07279},
