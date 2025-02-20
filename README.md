@@ -15,7 +15,7 @@ Manjary P Gangan<sup>a</sup>, Anoop K<sup>b</sup>, and Lajish V L<sup>a</sup> </
 
 For other inquiries, please contact: </br>
 Manjary P Gangan :email: manjaryp_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~manjary/) </br>
-Anoop K :email: a.kadan@qub.ac.uk :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
+Anoop K :email: a.kadan@soton.ac.uk :earth_asia: [website](https://www.southampton.ac.uk/people/65qvt5/doctor-anoop-kadan)</br>
 Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
 
 ## Citation
