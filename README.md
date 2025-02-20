@@ -4,7 +4,7 @@
 
 Manjary P Gangan<sup>a</sup>, Anoop K<sup>b</sup>, and Lajish V L<sup>a</sup> </br>
 <sup>a</sup> Department of Computer Science, University of Calicut, India </br>
-<sup>b</sup> School of Psychology, Queen's University Belfast, UK
+<sup>b</sup> University of Southampton, United Kingdom
 
 
 :memo: Paper : [https://arxiv.org/abs/2308.07279](https://arxiv.org/abs/2308.07279)</br>
