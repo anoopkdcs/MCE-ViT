@@ -1,6 +1,6 @@
 
 
-# A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer
+# Leveraging Vulnerabilities Towards Image Compression for Robust Classification of Natural and Generated Images
 
 Manjary P. Gangan<sup>a</sup>, Anoop Kadan<sup>b</sup>, and Lajish V. L.<sup>a</sup> </br>
 <sup>a</sup> Department of Computer Science, University of Calicut, India </br>
